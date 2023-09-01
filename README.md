@@ -1,7 +1,7 @@
-<p><center> Daniel Ziebart, he/him <br>
+***Daniel Ziebart***, he/him
 
-DCI Student
+**DCI Student**
 
-I am currently learning Python Backend Dev with enthusiasm. :sunglasses: <br>
+*I am currently learning Python Backend Dev with enthusiasm.* :sunglasses:
 
-Master of two British shorthair male cats. :heart_eyes_cat: </p>
+Master of two British shorthair male cats. :heart_eyes_cat: 
